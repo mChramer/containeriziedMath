@@ -1,2 +1,2 @@
 # containeriziedMath
-Docker - Containerizied a .NET app
+Docker - Containerizied .NET app
